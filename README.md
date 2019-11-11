@@ -1,0 +1,1 @@
+Project based on <a href="https://tutorial.djangogirls.org/pl/>Django Girls</a> tutorial.
