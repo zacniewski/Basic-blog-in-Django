@@ -1,1 +1,1 @@
-Project based on <a href="https://tutorial.djangogirls.org/pl/>Django Girls</a> tutorial.
+Project based on <a href="https://tutorial.djangogirls.org/pl/" target="_blank">Django Girls</a> tutorial.
