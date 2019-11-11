@@ -2,4 +2,3 @@ my_env/
 *.pyc
 __pychache__/
 .idea/
-*.sqlite3
